@@ -4,6 +4,16 @@
 
 Este projeto é um sistema de cadastro de funcionários para um departamento de Recursos Humanos (RH). Ele permite o gerenciamento dos dados dos colaboradores de uma empresa, incluindo cadastro, atualização, consulta e remoção de registros.
 
+# 👥 Equipe do Projeto  
+
+[![LA1SA0](https://img.shields.io/badge/LA1SA0-FF4081?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LA1SA0)
+[![correabeas](https://img.shields.io/badge/correabeas-7C4DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/correabeas)
+[![carolgonc](https://img.shields.io/badge/carolgonc-536DFE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolgonc)
+[![0M1n40](https://img.shields.io/badge/0M1n40-03A9F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0M1n40)
+[![anakelys](https://img.shields.io/badge/anakelys-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anakelys)
+[![desireeferreira](https://img.shields.io/badge/desireeferreira-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desireeferreira)
+[![laura-azevedo](https://img.shields.io/badge/laura--azevedo-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laura-azevedo)
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Backend:** Java com Spring Boot  
